@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Bamniya</h1>
 <h3 align="center">A passionate about Python Developer</h3>
 
-<img align="right" alt="coding" width="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZucDRsZjQzdWgyZGM3Mnh5OGs3NDJud2hhYzh3dWNsbHA0OGk2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iwiggdvik8fbNVtUKr/giphy.gif">
+<img align="right" alt="coding" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFiZmIzZnJncjFnbmk4ejE0YWdwdnZ2M29iMndscmQ2ZGRpNHo0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ohyt1wgAGR9qWxiFwU/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashub&label=Profile%20views&color=0e75b6&style=flat" alt="aashub" /> </p>
 
